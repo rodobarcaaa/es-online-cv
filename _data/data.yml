@@ -26,26 +26,34 @@ sidebar:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   languages:
-    - idiom: Spanish
+    - idiom: Español
       level: Native
 
-    - idiom: English
+    - idiom: Ingles
       level: Intermediate
 
   interests:
-    - item: Technology
+    - item: Tecnología
       link:
 
-    - item: Web Developer
+    - item: Desarrollo Web
       link:
 
-    - item: Soccer
+    - item: Futbol
       link:
 
 career-profile:
-  title: ABOUT ME
+  title: Sobre Mi
   summary: |
-    Experienced software engineer of working in the technology industry. Skiled in Scala to develop web products, mainly back-end, such as web services RESTfull and GraphQL, connections to databases and interaction with third parties. In addition to being a team leader with good management and interpersonal skills, currently in charge of project planning and adaptation of new technologies of Travelonux team.
+    Ingeniero de software con experiencia trabajando en la industria de la tecnología.
+    Con habilidades para desarrollar productos web, principalmente BackEnd, como
+    servicios web REST y GraphQL, conexiones a bases de datos e interacción con terceros.
+    Además he participado en el desarrollo de aplicaciones completas de arquitecturas
+    monolíticas, y en desarrollos FrontEnd principalmente con React.js o Angular.
+
+    En General puedo participar en el cliclo de vida completo de las aplicaciones web, pues
+    también poseo habilidades de despliegues y actualizacion en la nube, principalmente con AWS.
+
 education:
   - degree: Functional Program Design in Scala
     university: Coursera Course Certificates
@@ -55,50 +63,44 @@ education:
     university: Coursera Course Certificates
     time: 2016
 
-  - degree: Engineer's Degree
-    university: University of Informatic Sciences (UCI) Havana, Cuba
+  - degree: Ingeniero en Ciencias Informáticas
+    university: Iniversidad de Ciencias Informáticas (UCI) Havana, Cuba
     time: 2006 - 2011
 
 experiences:
   - role: Software Engineer, CTO
-    time: 2018 - Present
+    time: Enero 2018 - Presente
     company: Travelonux  / Montevideo, Uruguay
     details: |
-      - Heavily involved in Product Development Area as Product Owner and Product Manager
-      - Maintenance and creating of libraries for help the internal development
-      - Travel Agency Administration Systems in versions B2B and B2C
-      - Solutions RESTful of Travelonux Enterprise
+      - Alatamente involucrado en el área de desarrollo de productos como Product Manager
+      - Administración y creación de Sistemas para la gestión de Agencias de Viajes (B2B, B2C)
+      - Mantenimiento y creación de bibliotecas para ayudar al desarrollo interno
 
   - role: Software Engineer
-    time: 2016 - 2018
+    time: Febrero 2016 - Diciembre 2017
     company: BQN Custom Technology / Montevideo, Uruguay
     details: |
-      - Development of web services and applications for the management of lotteries and bets
-      - Maintenance, updating and creating of libraries for help the internal development
+      - Administración y creación de sistemas para la gestion de Agencias de Loterías y Quinielas
+      - Mantenimiento y creación de bibliotecas para ayudar al desarrollo interno
 
   - role: Database Developer
-    time: 2015 - 2016
+    time: Febrero 2015 - Febrero 2016
     company: Telefónica Movistar / Montevideo, Uruguay
     details: |
-      - Migration databases MsSQL, Oracle
-      - Designing and evaluate validation rules
+      - Migración de Base de Datos (MsSQL -> Oracle)
+      - Diseño y evaluación de reglas de validación de datos.
 
   - role: Java Developer
-    time: 2014 - 2015
+    time: Septiembre 2014 - Enero 2015
     company: Pragma Consultores / Montevideo, Uruguay
-    details: |
-      - Maintenance and support system anagement specialist units
-      - Application Development AES- Gener, United Payments
 
   - role: Developer, Specialist Computer Science, SysAdmin
-    time: 2011 - 2014
+    time: Septiembre 2011 - Julio 2014
     company: BPA - Banco Popular de Ahorros / Cienfuegos, Cuba
 
   - role: Student Developer
     time: 2010 - 2011
     company: University of Informatic Sciences (UCI) / Habana, Cuba
-    details: |
-      - Integration of the Medical Genetics System (alasMEDIGEN) with Computerized Health Register (RIS) to web services level.
 
   - role: SysAdmin and Manage Computer Medical Systems
     time: 2009 - 2010
@@ -138,6 +140,12 @@ skills:
 
     - name: Scala
       level: 99%
+
+    - name: Java
+      level: 80%
+
+    - name: Ruby
+      level: 75%
 
     - name: Python
       level: 60%
