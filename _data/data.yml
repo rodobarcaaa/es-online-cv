@@ -8,13 +8,13 @@ sidebar:
 
   # Profile information
   name: Rodolfo Echemendía Quintana
-  tagline: Software Engineer
+  tagline: Ingeniero en Sistemas
   avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: rodobarcaaa@gmail.com
   phone: (+598) 096 434 473
-  website: rodobarcaaa.github.io #do not add http://
+  website: # rodobarcaaa.github.io #do not add http://
   linkedin: rechemendia
   github: rodobarcaaa
   telegram: # add your nickname without '@' sign
@@ -27,10 +27,10 @@ sidebar:
 
   languages:
     - idiom: Español
-      level: Native
+      level: Nativo
 
     - idiom: Ingles
-      level: Intermediate
+      level: Intermedio
 
   interests:
     - item: Tecnología
@@ -45,7 +45,7 @@ sidebar:
 career-profile:
   title: Sobre Mi
   summary: |
-    Ingeniero de software con experiencia trabajando en la industria de la tecnología.
+    Ingeniero de software con amplia experiencia trabajando en la industria de la tecnología.
     Con habilidades para desarrollar productos web, principalmente BackEnd, como
     servicios web REST y GraphQL, conexiones a bases de datos e interacción con terceros.
     Además he participado en el desarrollo de aplicaciones completas de arquitecturas
@@ -55,54 +55,54 @@ career-profile:
     también poseo habilidades de despliegues y actualizacion en la nube, principalmente con AWS.
 
 education:
-  - degree: Functional Program Design in Scala
+  - degree: Diseño de programación funcional en Scala
     university: Coursera Course Certificates
     time: 2017
 
-  - degree: Functional Programming Principles in Scala
+  - degree: Principios de programación funcional en Scala
     university: Coursera Course Certificates
     time: 2016
 
-  - degree: Ingeniero en Ciencias Informáticas
-    university: Iniversidad de Ciencias Informáticas (UCI) Havana, Cuba
+  - degree: Ingeniero en Sistemas
+    university: Universidad de las Ciencias Informáticas (UCI), Havana, Cuba
     time: 2006 - 2011
 
 experiences:
-  - role: Software Engineer, CTO
+  - role: Ingeniero de Software, CTO
     time: Enero 2018 - Presente
     company: Travelonux  / Montevideo, Uruguay
     details: |
-      - Alatamente involucrado en el área de desarrollo de productos como Product Manager
+      - Altamente involucrado en el área de desarrollo de productos como Product Manager
       - Administración y creación de Sistemas para la gestión de Agencias de Viajes (B2B, B2C)
-      - Mantenimiento y creación de bibliotecas para ayudar al desarrollo interno
+      - Mantenimiento y creación de bibliotecas comunes para ayudar al Desarrollo Interno
 
-  - role: Software Engineer
+  - role: Ingeniero de Software
     time: Febrero 2016 - Diciembre 2017
     company: BQN Custom Technology / Montevideo, Uruguay
     details: |
-      - Administración y creación de sistemas para la gestion de Agencias de Loterías y Quinielas
-      - Mantenimiento y creación de bibliotecas para ayudar al desarrollo interno
+      - Administración de sistemas para la gestion de Agencias de Loterías y Quinielas
+      - Mantenimiento y creación de bibliotecas comunes para ayudar al Desarrollo Interno
 
-  - role: Database Developer
+  - role: Desarrollador de Base de Datos
     time: Febrero 2015 - Febrero 2016
     company: Telefónica Movistar / Montevideo, Uruguay
     details: |
       - Migración de Base de Datos (MsSQL -> Oracle)
       - Diseño y evaluación de reglas de validación de datos.
 
-  - role: Java Developer
+  - role: Desarrollador Java
     time: Septiembre 2014 - Enero 2015
     company: Pragma Consultores / Montevideo, Uruguay
 
-  - role: Developer, Specialist Computer Science, SysAdmin
+  - role: Desarrollador Web, Especialista en Ciencias Informáticas y Administracion de Redes
     time: Septiembre 2011 - Julio 2014
     company: BPA - Banco Popular de Ahorros / Cienfuegos, Cuba
 
-  - role: Student Developer
+  - role: Estudiante y Desarrollador Web (DATEC)
     time: 2010 - 2011
-    company: University of Informatic Sciences (UCI) / Habana, Cuba
+    company: Universidad de las Ciencias Informáticas (UCI) / Havana, Cuba
 
-  - role: SysAdmin and Manage Computer Medical Systems
+  - role: Administrador de Sistemas Médicos y Administracion de Redes
     time: 2009 - 2010
     company: CDI-Higuerote / Miranda, Venezuela
 
