@@ -69,7 +69,7 @@ education:
 
 experiences:
   - role: Ingeniero de Software, CTO
-    time: Enero 2018 - Presente
+    time: Ene 2018 - Presente
     company: Travelonux  / Montevideo, Uruguay
     details: |
       - Altamente involucrado en el área de desarrollo de productos como Product Manager
@@ -77,25 +77,25 @@ experiences:
       - Mantenimiento y creación de bibliotecas comunes para ayudar al Desarrollo Interno
 
   - role: Ingeniero de Software
-    time: Febrero 2016 - Diciembre 2017
+    time: Feb 2016 - Dic 2017
     company: BQN Custom Technology / Montevideo, Uruguay
     details: |
       - Administración de sistemas para la gestion de Agencias de Loterías y Quinielas
       - Mantenimiento y creación de bibliotecas comunes para ayudar al Desarrollo Interno
 
   - role: Desarrollador de Base de Datos
-    time: Febrero 2015 - Febrero 2016
+    time: Feb 2015 - Feb 2016
     company: Telefónica Movistar / Montevideo, Uruguay
     details: |
       - Migración de Base de Datos (MsSQL -> Oracle)
       - Diseño y evaluación de reglas de validación de datos.
 
   - role: Desarrollador Java
-    time: Septiembre 2014 - Enero 2015
+    time: Sep 2014 - Ene 2015
     company: Pragma Consultores / Montevideo, Uruguay
 
   - role: Administrador de Sistemas Bancarios y Redes Informáticas
-    time: Septiembre 2011 - Julio 2014
+    time: Sep 2011 - Jul 2014
     company: BPA - Banco Popular de Ahorros / Cienfuegos, Cuba
 
   - role: Administrador de Sistemas Médicos y Redes Informáticas
