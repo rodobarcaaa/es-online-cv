@@ -72,12 +72,11 @@ experiences:
     time: Ene 2018 - Presente
     company: Travelonux  / Montevideo, Uruguay
     details: |
-      Principales tareas:
       - Altamente involucrado en el área de desarrollo de productos como Product Manager
       - Administración y creación de Sistemas para la gestión de Agencias de Viajes (B2B, B2C)
       - Mantenimiento y creación de bibliotecas comunes para ayudar al Desarrollo Interno
-      Tecnologías usadas:
-      - Scala, Play Framework, Cats, Slick, Sangria, TypeScript, ReactJs, Angular, MYSQL, PostgreSQL, MongoDB, Swagger, Git, BitBucket, NGINX, RESTful, GraphQL, JSON, XML, JAVA, RUBY, SOAP, Postman, Intellij IDEA, AWS, SEO.
+      Tecnologías:
+      Scala, Play Framework, Cats, Slick, Sangria, Node, Python, FastAPI, Ruby, TypeScript, ReactJs, Angular, MYSQL, PostgreSQL, MongoDB, Swagger, Git, BitBucket, NGINX, RESTful, GraphQL, JSON, XML, SOAP, Postman, Intellij IDEA, AWS, SEO
 
   - role: Ingeniero de Software
     time: Feb 2016 - Dic 2017
@@ -85,6 +84,8 @@ experiences:
     details: |
       - Administración de sistemas para la gestion de Agencias de Loterías y Quinielas
       - Mantenimiento y creación de bibliotecas comunes para ayudar al Desarrollo Interno
+      Tecnologías:
+      Scala, Vaadin, Java, MYSQL, RESTful, JSON, Swing, Intellij IDEA, Scrum, SVN, Git
 
   - role: Desarrollador de Base de Datos
     time: Feb 2015 - Feb 2016
@@ -92,18 +93,34 @@ experiences:
     details: |
       - Migración de Base de Datos (MsSQL -> Oracle)
       - Diseño y evaluación de reglas de validación de datos.
+      Tecnologías:
+      SQL Server, Oracle SQL, MSSQL, MYSQL, Java, Intellij IDEA, Scrum, SVN
 
-  - role: Desarrollador Java
+
+  - role: Ingeniero de Software
     time: Sep 2014 - Ene 2015
     company: Pragma Consultores / Montevideo, Uruguay
+    details: |
+      - WEB: Mantenimiento y soporte de sistema de Unidades especializadas (SAGUE)
+      - MOBILE: Desarrollo de aplicaciones para centralizar pagos electronicos AES-Gener(OT).
+      Tecnologías:
+      Java EE, MyBatis, Oracle SQL, Ruby, MySQL, PostgreSQL, Eclipse, JavaScript, Appcelerator Titanium, RESTful, MVC, SVN
 
-  - role: Administrador de Sistemas Bancarios y Redes Informáticas
+  - role: Ingeniero de Software, SysAdmin
     time: Sep 2011 - Jul 2014
     company: BPA - Banco Popular de Ahorros / Cienfuegos, Cuba
+    details: |
+      - WEB: Mantenimiento y soporte de sistema de Unidades especializadas (SAGUE)
+      - MOBILE: Desarrollo de aplicaciones para centralizar pagos electronicos AES-Gener(OT).
+      Tecnologías:
+      Java EE, JSP, Servlet, EJB, JPA, JSF, PrimeFaces, Ruby, Ruby on Rails, PHP, Python, WebtoPY, Django, MySQL, MsSQL, PostgreSQL, PGAdmin, NetBeans, Eclipse, SVN.
 
-  - role: Administrador de Sistemas Médicos y Redes Informáticas
+  - role: Administrador de Sistemas Médicos y Redes
     time: 2009 - 2010
     company: CDI-Higuerote / Miranda, Venezuela
+    details: |
+      Tecnologías:
+      SQL Server 2005, Windows Server 2003, Free Proxy
 
 #projects:
 #  title: Projects
@@ -147,7 +164,7 @@ skills:
       level: 75%
 
     - name: Python
-      level: 60%
+      level: 65%
 
     - name: HTML
       level: 85%
