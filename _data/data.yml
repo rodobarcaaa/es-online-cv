@@ -72,10 +72,11 @@ experiences:
     time: Ene 2018 - Presente
     company: Travelonux  / Montevideo, Uruguay
     details: |
+      Principales tareas:
       - Altamente involucrado en el área de desarrollo de productos como Product Manager
       - Administración y creación de Sistemas para la gestión de Agencias de Viajes (B2B, B2C)
       - Mantenimiento y creación de bibliotecas comunes para ayudar al Desarrollo Interno
-     *Tecnologías usadas*
+      Tecnologías usadas:
       - Scala, Play Framework, Cats, Slick, Sangria, TypeScript, ReactJs, Angular, MYSQL, PostgreSQL, MongoDB, Swagger, Git, BitBucket, NGINX, RESTful, GraphQL, JSON, XML, JAVA, RUBY, SOAP, Postman, Intellij IDEA, AWS, SEO.
 
   - role: Ingeniero de Software
