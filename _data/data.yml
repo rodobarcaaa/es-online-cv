@@ -33,13 +33,19 @@ sidebar:
       level: Intermedio
 
   interests:
-    - item: Tecnología
+    - item: Backend (REST, GraphQL)
       link:
 
-    - item: Desarrollo Web
+    - item: DB (SQL, NoSQL, Redis)
       link:
 
-    - item: Futbol
+    - item: DevOps (CI/CD, Docker, AWS)
+      link:
+
+    - item: Scala (Play, Slick, Tapir, Cats)
+      link:
+
+    - item: Otros (Java, Python, Node)
       link:
 
 career-profile:
@@ -47,12 +53,8 @@ career-profile:
   summary: |
     Ingeniero de software con amplia experiencia trabajando en la industria de la tecnología.
     Con habilidades para desarrollar productos web, principalmente BackEnd, como
-    servicios web REST y GraphQL, conexiones a bases de datos e interacción con terceros.
-    Además he participado en el desarrollo de aplicaciones completas de arquitecturas
-    monolíticas, y solo FrontEnd.
-
-    En General puedo participar en el cliclo de vida completo de las aplicaciones web, pues
-    también poseo habilidades de despliegues y actualizacion en la nube, principalmente con AWS.
+    servicios web REST y GraphQL, conexiones a bases de datos e interacción con terceros. Además
+    de ser un lider de equipo con buena administración y habilidades de comunicación.
 
 education:
   - degree: Diseño de programación funcional en Scala
@@ -68,9 +70,19 @@ education:
     time: 2006 - 2011
 
 experiences:
-  - role: Ingeniero de Software, CTO
+  - role: Leader Tecnico & Ingeniero de Software con Scala
+    time: 2021 - Present
+    company: AtixLabs / Buenos Aires, Argentina
+    details: |
+      - Desarrollo de API (s) REST para muchos proyectos backend escritos en Scala
+      - Mantenimiento y creación de bibliotecas comunes para ayudar al Desarrollo Interno
+      - Integración con tecnologías blockchain, creación de DID, CredentialID, entre otros
+      Tecnologías:
+      - Scala, Play Framework, Cats, Slick, PostgreSQL, Swagger, Github, Github Actions, Gatling.
+
+  - role: Fundador & Principal Ingeniero de Software
     time: Ene 2018 - Presente
-    company: Travelonux  / Montevideo, Uruguay
+    company: Travelonux - MeVuelo / Montevideo, Uruguay
     details: |
       - Altamente involucrado en el área de desarrollo de productos como Product Manager
       - Administración y creación de Sistemas para la gestión de Agencias de Viajes (B2B, B2C)
@@ -122,63 +134,13 @@ experiences:
       Tecnologías:
       - SQL Server 2005, Windows Server 2003, Free Proxy
 
-#projects:
-#  title: Projects
-#  assignments:
-#    - title: MeVuelo
-#      link: "#hook"
-#      tagline: "A responsive website template designed to help startups promote, market and sell their products."
-#
-#    - title: SPA - Sistema de Pago de Aciertos
-#      link: "#"
-#      tagline: "A responsive website template designed to help web developers/designers market their services."
-#
-#    - title: Alase
-#      link: "#"
-#      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-
-skills:
-  title: Competencias Técnicas
-
-  toolset:
-    - name: Backend (REST, GraphQL)
-      level: 99%
-
-    - name: Frontend (JS, TS)
-      level: 65%
-
-    - name: DB (SQL, NoSQL, Redis)
-      level: 90%
-
-    - name: DevOps (Docker, AWS)
-      level: 85%
-
-    - name: Scala
-      level: 99%
-
-    - name: Java
-      level: 80%
-
-    - name: Ruby
-      level: 75%
-
-    - name: Python
-      level: 65%
-
-    - name: HTML
-      level: 85%
-
-    - name: CSS
-      level: 85%
-
-    - name: Angular
-      level: 55%
-
-    - name: ReactJs
-      level: 55%
-
+projects:
+  title: Proyectos
+  assignments:
+    - title: MeVuelo
+      link: "https://www.mevuelo.com"
+      tagline: "Agencia de Viajes Online, El mundo necesita viajeros!"
 
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by rodobarcaaa
+  Resumen Online | Rodolfo Echemendía Quintana
