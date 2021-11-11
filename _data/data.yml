@@ -77,8 +77,8 @@ experiences:
       - Desarrollo de API (s) REST para muchos proyectos backend escritos en Scala
       - Mantenimiento y creación de bibliotecas comunes para ayudar al Desarrollo Interno
       - Integración con tecnologías blockchain, creación de DID, CredentialID, entre otros
-      Tecnologías:
-      - Scala, Play Framework, Cats, Slick, PostgreSQL, Swagger, Github, Github Actions, Gatling.
+      
+      Tecnologías: Scala, Play Framework, Cats, Slick, PostgreSQL, Swagger, Github, Github Actions, Gatling.
 
   - role: Fundador & Principal Ingeniero de Software
     time: Ene 2018 - Presente
@@ -87,8 +87,8 @@ experiences:
       - Altamente involucrado en el área de desarrollo de productos como Product Manager
       - Administración y creación de Sistemas para la gestión de Agencias de Viajes (B2B, B2C)
       - Mantenimiento y creación de bibliotecas comunes para ayudar al Desarrollo Interno
-      Tecnologías:
-      - Scala, Play Framework, Cats, Slick, Sangria, Node, Python, FastAPI, Ruby, TypeScript, ReactJs, Angular, MYSQL, PostgreSQL, MongoDB, Swagger, Git, Github, Github Actions, BitBucket, NGINX, RESTful, GraphQL, JSON, XML, SOAP, Postman, Intellij IDEA, AWS, SEO
+      
+      Tecnologías: Scala, Play Framework, Cats, Slick, Sangria, Node, Python, FastAPI, Ruby, TypeScript, ReactJs, Angular, MYSQL, PostgreSQL, MongoDB, Swagger, Git, Github, Github Actions, BitBucket, NGINX, RESTful, GraphQL, JSON, XML, SOAP, Postman, Intellij IDEA, AWS, SEO
 
   - role: Ingeniero de Software
     time: Feb 2016 - Dic 2017
@@ -96,8 +96,8 @@ experiences:
     details: |
       - Administración de sistemas para la gestion de Agencias de Loterías y Quinielas
       - Mantenimiento y creación de bibliotecas comunes para ayudar al Desarrollo Interno
-      Tecnologías:
-      - Java, Vaadin, Scala, MYSQL, RESTful, JSON, Swing, Intellij IDEA, Scrum, SVN, Git
+      
+      Tecnologías: Scala, Java, Vaadin, MYSQL, RESTful, JSON, Swing, Intellij IDEA, Scrum, SVN, Git
 
   - role: Desarrollador de Base de Datos
     time: Feb 2015 - Feb 2016
@@ -105,8 +105,8 @@ experiences:
     details: |
       - Migración de Base de Datos (MsSQL -> Oracle)
       - Diseño y evaluación de reglas de validación de datos.
-      Tecnologías:
-      - SQL Server, Oracle SQL, MSSQL, MYSQL, Java, Intellij IDEA, Scrum, SVN
+      
+      Tecnologías: SQL Server, Oracle SQL, MSSQL, MYSQL, Java, Intellij IDEA, Scrum, SVN
 
 
   - role: Ingeniero de Software
@@ -115,24 +115,17 @@ experiences:
     details: |
       - WEB: Mantenimiento y soporte de sistema de Unidades especializadas (SAGUE)
       - MOBILE: Desarrollo de aplicaciones para centralizar pagos electronicos AES-Gener(OT).
-      Tecnologías:
-      - Java EE, MyBatis, Oracle SQL, Ruby, MySQL, PostgreSQL, Eclipse, JavaScript, Appcelerator Titanium, RESTful, MVC, SVN
+      
+      Tecnologías: Java EE, MyBatis, Oracle SQL, MySQL, PostgreSQL, Eclipse, JavaScript, Appcelerator Titanium, RESTful, MVC, SVN
 
   - role: Ingeniero de Software, SysAdmin
     time: Sep 2011 - Jul 2014
     company: BPA - Banco Popular de Ahorros / Cienfuegos, Cuba
-    details: |
-      - WEB: Mantenimiento y soporte de sistema de Unidades especializadas (SAGUE)
-      - MOBILE: Desarrollo de aplicaciones para centralizar pagos electronicos AES-Gener(OT).
-      Tecnologías:
-      - Java EE, JSP, Servlet, EJB, JPA, JSF, PrimeFaces, Ruby, Ruby on Rails, PHP, Python, WebtoPY, Django, MySQL, MsSQL, PostgreSQL, PGAdmin, NetBeans, Eclipse, SVN.
-
+   
   - role: Administrador de Sistemas Médicos y Redes
     time: 2009 - 2010
     company: CDI-Higuerote / Miranda, Venezuela
-    details: |
-      Tecnologías:
-      - SQL Server 2005, Windows Server 2003, Free Proxy
+    
 
 projects:
   title: Proyectos
