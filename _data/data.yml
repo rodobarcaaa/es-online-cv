@@ -72,7 +72,7 @@ education:
 experiences:
   - role: Leader Tecnico & Ingeniero de Software con Scala
     time: 2021 - Present
-    company: AtixLabs / Buenos Aires, Argentina
+    company: <a href="https://www.atixlabs.com/">AtixLabs</a> / Buenos Aires, Argentina
     details: |
       - Desarrollo de API (s) REST para muchos proyectos backend escritos en Scala
       - Mantenimiento y creación de bibliotecas comunes para ayudar al Desarrollo Interno
@@ -82,7 +82,7 @@ experiences:
 
   - role: Fundador & Principal Ingeniero de Software
     time: Ene 2018 - Presente
-    company: Travelonux - MeVuelo / Montevideo, Uruguay
+    company: <a href="https://www.travelonux.com/">Travelonux</a> - <a href="https://mevuelo.com/">MeVuelo</a> / Montevideo, Uruguay
     details: |
       - Altamente involucrado en el área de desarrollo de productos como Product Manager
       - Administración y creación de Sistemas para la gestión de Agencias de Viajes (B2B, B2C)
@@ -92,7 +92,7 @@ experiences:
 
   - role: Ingeniero de Software
     time: Feb 2016 - Dic 2017
-    company: BQN Custom Technology / Montevideo, Uruguay
+    company: <a href="https://bqn.com.uy/">BQN Custom Technology</a> / Montevideo, Uruguay
     details: |
       - Administración de sistemas para la gestion de Agencias de Loterías y Quinielas
       - Mantenimiento y creación de bibliotecas comunes para ayudar al Desarrollo Interno
@@ -101,7 +101,7 @@ experiences:
 
   - role: Desarrollador de Base de Datos
     time: Feb 2015 - Feb 2016
-    company: Telefónica Movistar / Montevideo, Uruguay
+    company: <a href="https://www.movistar.com.uy/">Telefónica Movistar</a> / Montevideo, Uruguay
     details: |
       - Migración de Base de Datos (MsSQL -> Oracle)
       - Diseño y evaluación de reglas de validación de datos.
@@ -111,7 +111,7 @@ experiences:
 
   - role: Ingeniero de Software
     time: Sep 2014 - Ene 2015
-    company: Pragma Consultores / Montevideo, Uruguay
+    company: <a href="https://argentina.practia.global/">Practia Consultores</a> / Montevideo, Uruguay
     details: |
       - WEB: Mantenimiento y soporte de sistema de Unidades especializadas (SAGUE)
       - MOBILE: Desarrollo de aplicaciones para centralizar pagos electronicos AES-Gener(OT).
