@@ -33,7 +33,7 @@ sidebar:
       level: Intermedio
 
   interests:
-    - item: Backend (REST, GraphQL)
+    - item: Backend (REST, GraphQL, gRPC)
       link:
 
     - item: DB (SQL, NoSQL, Redis)
@@ -45,7 +45,7 @@ sidebar:
     - item: Scala (Play, Slick, Tapir, Cats)
       link:
 
-    - item: Otros (Java, Python, Node)
+    - item: Otros (Blockchain, Python, Node)
       link:
 
 career-profile:
@@ -70,8 +70,18 @@ education:
     time: 2006 - 2011
 
 experiences:
-  - role: Leader Técnico & Ingeniero Scala
-    time: May 2021 - Present
+  - role: Lider Técnico @ Blockchain Estudio
+    time: Oct 2022 - Present
+    company: <a href="https://www.globant.com/">Globant</a> / Montevideo, Uruguay
+    details: |
+      - Desarrollo de API (s) REST para muchos proyectos backend escritos en Scala
+      - Integración con tecnologías blockchain, creación de DID, CredentialID, entre otros
+      - Integración con Cardano blockchain a través de Atala-SDK
+      
+      Technologies: Scala, Play Framework, Cats, Slick, PostgreSQL, Swagger, Github, Github Actions, Gatling
+
+  - role: Lider Técnico & Ingeniero Scala
+    time: May 2021 - Oct 2022
     company: <a href="https://www.atixlabs.com/">AtixLabs</a> / Buenos Aires, Argentina
     details: |
       - Desarrollo de API (s) REST para muchos proyectos backend escritos en Scala
@@ -81,7 +91,7 @@ experiences:
       Tecnologías: Scala, Play Framework, Cats, Slick, PostgreSQL, Swagger, Github, Github Actions, Gatling.
 
   - role: Co-Fundador & CTO
-    time: Ene 2018 - Abr 2021
+    time: Ene 2018 - May 2021
     company: <a href="https://www.travelonux.com/">Travelonux</a> - <a href="https://mevuelo.com/">MeVuelo</a> / Montevideo, Uruguay
     details: |
       - Altamente involucrado en el área de desarrollo de productos como Product Manager
