@@ -33,7 +33,7 @@ sidebar:
       level: Intermedio
 
   interests:
-    - item: Backend (REST, GraphQL, gRPC)
+    - item: Backend (REST, SOAP o GraphQL)
       link:
 
     - item: DB (SQL, NoSQL, Redis)
@@ -52,33 +52,47 @@ career-profile:
   title: Sobre Mi
   summary: |
     Ingeniero de software con amplia experiencia trabajando en la industria de la tecnología.
-    Con habilidades para desarrollar productos web, principalmente BackEnd, como
-    servicios web REST y GraphQL, conexiones a bases de datos e interacción con terceros. Además
-    de ser un lider de equipo con buena administración y habilidades de comunicación.
+    Capacitado en Scala para desarrollar productos web, principalmente BackEnd, como
+    servicios web REST, SOAP o GraphQL, conexiones a bases de datos e interacción con terceros. Además
+    de ser un lider técnico y de equipo con buena administración y habilidades de comunicación.
 
 education:
+
+  - degree: Cats y Cats Effects
+    plataforma: Rock the JVM Courses
+    time: 2022
+
   - degree: Diseño de programación funcional en Scala
-    university: Coursera Course Certificates
+    plataforma: Coursera Course Certificates
     time: 2017
 
   - degree: Principios de programación funcional en Scala
-    university: Coursera Course Certificates
+    plataforma: Coursera Course Certificates
     time: 2016
 
-  - degree: Ingeniero en Sistemas
+  - degree: Ingeniería en Sistemas
     university: Universidad de las Ciencias Informáticas (UCI), Havana, Cuba
     time: 2006 - 2011
 
 experiences:
+  - role: Ingeniero Scala @ Disney Estudio
+    time: Oct 2023 - Present
+    company: <a href="https://www.globant.com/">Globant</a> / Montevideo, Uruguay
+    details: |
+      - Desarrollo de API (s) REST para muchos proyectos backend escritos en Scala
+      - Integración con Spark, para procesar grandes volumenes de datos, entre otros
+      
+      Technologies: Scala, Spark, HTTP4s, Cats, Cats Effects, Github, CI/CD, Github Actions, AWS
+
   - role: Lider Técnico @ Blockchain Estudio
-    time: Oct 2022 - Present
+    time: Oct 2022 - Oct 2023
     company: <a href="https://www.globant.com/">Globant</a> / Montevideo, Uruguay
     details: |
       - Desarrollo de API (s) REST para muchos proyectos backend escritos en Scala
       - Integración con tecnologías blockchain, creación de DID, CredentialID, entre otros
       - Integración con Cardano blockchain a través de Atala-SDK
       
-      Technologies: Scala, Play Framework, Cats, Slick, PostgreSQL, Swagger, Github, Github Actions, Gatling
+      Technologies: Scala, Play Framework, Cats, Slick, PostgreSQL, Swagger, Github, CI/CD, Github Actions, AWS
 
   - role: Lider Técnico & Ingeniero Scala
     time: May 2021 - Oct 2022
