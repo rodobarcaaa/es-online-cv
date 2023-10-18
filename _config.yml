@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Rodolfo Echemendía Quintana
-url: 'https://rodobarcaaa.github.io/'
+url: 'https://blog.echemendía.com/'
 baseurl: '/es-online-cv' #change it according to your repository name
 description: Resumen CV
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
