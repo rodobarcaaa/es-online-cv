@@ -58,7 +58,11 @@ career-profile:
 
 education:
 
-  - degree: Cats y Cats Effects
+  - degree: Cats Effects
+    plataforma: Rock the JVM Courses
+    time: 2023
+
+  - degree: Cats
     plataforma: Rock the JVM Courses
     time: 2022
 
@@ -79,10 +83,10 @@ experiences:
     time: Oct 2023 - Present
     company: <a href="https://www.globant.com/">Globant</a> / Montevideo, Uruguay
     details: |
-      - Desarrollo de API (s) REST para muchos proyectos backend escritos en Scala
-      - Integración con Spark, para procesar grandes volumenes de datos, entre otros
+      - Generación de múltiples informes con Databricks y Spark usando notebooks y scheduled workflows.
+      - Desarrollo de apps Scala + Spark para procesar grandes volúmenes de entrada y salida de datos.
       
-      Technologies: Scala, Spark, HTTP4s, Cats, Cats Effects, Github, CI/CD, Github Actions, AWS
+      Technologies: Scala, Spark, Databricks, Apache Airflow, Cats, Cats Effects, Github, CI/CD, AWS
 
   - role: Lider Técnico @ Blockchain Estudio
     time: Oct 2022 - Oct 2023
